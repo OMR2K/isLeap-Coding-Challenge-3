@@ -1,2 +1,3 @@
-# isLeap-...-Coding-Challenge-3
-Checks if a year given is a leap year or no
+# isLeap-Coding-Challenge-3
+
+This is the first coding challenge for the Freshmen Immigration course at Carnegie Mellong University
